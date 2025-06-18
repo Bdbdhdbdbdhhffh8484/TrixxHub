@@ -70,10 +70,10 @@ local theme = getgenv().theme or {
     BackColor = Color3.fromRGB(107, 50, 124),
     TopBar = Color3.fromRGB(107, 50, 124),
 
-    UpperContainer = Color3.fromRGB(196, 40, 28),
-    InnerContainer = Color3.fromRGB(196, 40, 28),
+    UpperContainer = Color3.fromRGB(107, 50, 124),
+    InnerContainer = Color3.fromRGB(107, 50, 124),
 
-    InteractableBackground = Color3.fromRGB(45, 45, 58),
+    InteractableBackground = Color3.fromRGB(196, 40, 28),
     InteractableOutline = Color3.fromRGB(100, 100, 100),
 
     Accent = Color3.fromRGB(27, 42, 53), --> Used for hover outlines, selected tab
